@@ -1,0 +1,20 @@
+git config --global user.name "yourusername"
+git config --global user.email "youremailaddress"
+git config --global --list
+
+git init
+git status
+history
+ls
+git add <filename>
+*tab autocomplete:- git add <filename up until the first unique letters and press tab key>
+git commit -m "commit message"
+git add .
+git log
+git log --oneline
+git diff
+git branch
+git branch <name>
+git switch(<or "checkout">) <branch name>
+git checkout -b <new and about to switch to branchname>
+clear
