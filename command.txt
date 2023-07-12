@@ -18,3 +18,4 @@ git branch <name>
 git switch(<or "checkout">) <branch name>
 git checkout -b <new and about to switch to branchname>
 clear
+git restore .
